@@ -3,4 +3,4 @@ We propose a large-scale spatiotemporal NDVI prediction method named MCS-LSTP, w
 
 
 
-The data used in this method is released under the CC-BY 4.0 license agreement.
+The data used in this method is released under the CC0 license agreement.
